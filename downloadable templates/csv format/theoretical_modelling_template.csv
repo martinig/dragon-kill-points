@@ -1,0 +1,29 @@
+Contributions are scored as 1 (yes) or 0 (no). Total counts are used when a non-binary system is not appropriate.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+name (listed alphabetically by last name),confirmed involvement,funding,conceptualization,conceptualization: theoretical framework construction,methodology: study/protocal registration,methodology: pilot testing,"formal analysis: 
+statistical 
+analysis","formal analysis: 
+model development 1","formal analysis: 
+model development 
+validation 1","formal analysis: 
+model development 2","formal analysis: 
+model development 
+validation 2"," 
+formal analysis: 
+analysis 
+documentation",validation: model development,visualization: graphical design refinement,writing - original draft: abstract,writing - review & editing: abstract,writing - original draft: introduction,writing - review & editing: introduction,writing - original draft: methods,writing - review & editing: methods,writing - original draft: results,writing - review & editing: results,writing - original draft: discussion,writing - review & editing: discussion,writing - original draft: supplementary material,writing - review & editing: supplementary material,writing - review & editing: formatting compliance,authorship order finalized,approval to submit,response to reviewers,sum contribution scores,weighted contribution score,author order (*indicates equal contributions)
+Author 1,participating,1,1,1,0,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,NA,1,1,21,NA,2
+Author 2,participating,1,1,1,0,1,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,1,1,1,1,1,1,NA,1,0,14,NA,7*
+Author 3,participating,0,1,1,1,1,1,0,0,0,2,1,0,1,0,1,0,1,0,1,0,1,0,1,1,1,1,NA,1,0,17,NA,5
+Author 4,not participating,NA,NA,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA
+Author 5,participating,0,1,1,1,1,1,0,0,1,5,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,NA,1,1,26,NA,1
+Author 6,participating,0,1,1,1,1,1,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,1,1,1,1,1,NA,1,0,15,NA,6
+Author 7,not participating,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA
+Author 8,participating,0,1,0,0,0,0,1,0,1,1,5,1,0,0,1,0,1,0,1,1,1,1,1,0,0,1,NA,1,0,18,NA,4
+Author 9,participating,0,1,0,0,0,0,0,0,1,0,5,0,0,0,1,0,1,0,1,0,1,0,1,0,0,1,NA,1,0,13,NA,9
+Author 10,participating,0,1,0,0,0,0,0,1,0,0,10,1,0,0,1,0,1,0,1,0,1,1,1,0,0,1,NA,1,0,20,NA,3
+Author 11,participating,0,0,1,0,0,0,0,1,0,0,5,1,0,0,1,0,1,0,1,0,1,0,1,0,0,1,NA,1,0,14,NA,7*
+Author 12,participating,0,0,1,0,0,0,0,0,0,0,5,0,0,0,1,0,1,0,1,0,1,0,1,0,0,1,NA,1,0,12,NA,10
+Author 13,participating,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,1,NA,1,0,7,NA,12
+Author 17,participating,0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,1,0,1,0,0,0,0,1,NA,1,0,8,NA,11
+Author 19,participating,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,NA,1,0,3,NA,14
+Author 20,participating,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,NA,1,0,5,NA,13

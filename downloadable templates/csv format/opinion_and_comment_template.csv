@@ -1,0 +1,24 @@
+Contributions are scored as 1 (yes) or 0 (no). Total counts are used when a non-binary system is not appropriate.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+name (listed alphabetically by last name),conceptualization,conceptualization: literature review,investigation: instrument development,investigation: problem solving,data curation: data preservation planning,data curation: data sharing,"visualisation: figure preparation, figure 1","visualisation: figure preparation, figure 1 feedback ","visualisation: figure preparation, figure 2","visualisation: figure preparation, figure 2 feedback ",witing - orignal draft: draft 1,witing - reivew & editing: draft 1,witing - orignal draft: draft 2,witing - reivew & editing: draft 2,witing - orignal draft: draft 3,witing - reivew & editing: draft 3,witing - orignal draft: draft 4,witing - reivew & editing: draft 4,witing - orignal draft: draft 5,witing - reivew & editing: draft 5,witing - orignal draft: draft 6,witing - reivew & editing: draft 6,witing - orignal draft: final draft,witing - reivew & editing: final draft,witing - orignal draft: table 1,witing - reivew & editing: table 1,witing - orignal draft: glossary,witing - reivew & editing: glossary,writing - review & editing: formatting compliance,communication,authorship order finalized,approval to submit,response to reviewers,sum contribution scores,weighted contribution score,author order (*indicates equal authorship)
+Author 1,1,1,0,0,0,0,5,3,0,2,5,0,5,0,2,0,4,0,3,2,1,4,5,1,1,0,0,0,1,0,NA,1,1,46,NA,2
+Author 2,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+Author 3,NA,NA,NA,0,0,0,NA,0,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,2,1,NA,0,NA,0,0,0,NA,1,0,4,NA,17
+Author 4,NA,NA,NA,0,1,0,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,0,0,0,0,0,0,0,NA,1,0,8,NA,12*
+Author 5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA
+Author 6,NA,NA,NA,0,0,0,0,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,0,0,0,0,0,0,0,NA,1,0,3,NA,18
+Author 7,NA,NA,NA,0,0,0,5,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0,0,NA,1,0,5,NA,16
+Author 8,0,1,2,0,0,0,5,1,5,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,NA,1,0,20,NA,3
+Author 9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA
+Author 10,1,1,1,0,0,0,0,3,0,2,1,4,2,2,0,5,4,1,2,3,0,0,3,1,1,1,0,1,0,0,NA,1,1,39,NA,19
+Author 11,1,1,4,6,1,1,5,2,5,3,5,0,5,0,2,0,5,0,3,0,3,0,5,0,1,1,1,0,2,0,NA,1,1,62,NA,1
+Author 12,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,1,5,0,0,0,0,0,NA,1,0,13,NA,5
+Author 13,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,0,NA,1,0,8,NA,12*
+Author 14,1,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,NA,1,1,10,NA,8*
+Author 15,NA,NA,NA,6,0,0,0,2,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1,2,0,0,0,0,0,NA,1,0,14,NA,4
+Author 16,NA,NA,NA,0,5,0,0,0,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,0,0,1,0,0,0,0,NA,1,0,11,NA,6*
+Author 17,0,1,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,1,0,NA,1,0,10,NA,8*
+Author 18,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,1,0,1,0,0,NA,1,0,11,NA,6*
+Author 19,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,1,0,0,NA,1,0,10,NA,8*
+Author 20,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,NA,1,0,8,NA,12*
+Author 21,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,5,0,1,0,0,0,1,0,0,NA,1,0,9,NA,11
+Author 22,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,0,0,NA,1,0,7,NA,15
