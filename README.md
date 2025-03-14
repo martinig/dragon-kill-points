@@ -12,5 +12,3 @@ Dragon Kill Points is built around five key principles: granularity, responsibil
 Through Dragon Kill Points, researchers can reduce conflicts, create more inclusive authorship practices, and acknowledge the true value of middle authorship positions. 
 
 **This system offers a flexible, scalable approach to managing authorship across various contexts, providing a solution to the complex challenges of collaboration.**
-
-[v5-1.pdf](https://github.com/user-attachments/files/19253917/v5-1.pdf)
