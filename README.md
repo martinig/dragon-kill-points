@@ -1,6 +1,11 @@
-All the pre-made Dragon Kill Points templates, including our website with a simple description of the method.
+# 🐉 Dragon Kill Points: applying a transparent working template to relieve authorship stress
+_"To whom doth the honour of the Dragonslayer belongeth?"_
 
+This repository contains all the pre-made Dragon Kill Points templates.
 We propose Dragon Kill Points, adapted from multiplayer gaming, which tracks individual contributions to projects throughout their lifecycle. 
+
+## ⚔️ Method overview
+_"Slayeth the Dragon we must!"_
 
 Dragon Kill Points is built around five key principles: granularity, responsibility, equity, autonomy, and transparency (**GREAT**). 
 1. **Granularity** ensures detailed documentation of tasks, preventing underrepresentation of individual contributions.
@@ -12,3 +17,13 @@ Dragon Kill Points is built around five key principles: granularity, responsibil
 Through Dragon Kill Points, researchers can reduce conflicts, create more inclusive authorship practices, and acknowledge the true value of middle authorship positions. 
 
 **This system offers a flexible, scalable approach to managing authorship across various contexts, providing a solution to the complex challenges of collaboration.**
+
+## 🖋️ Citation
+Please cite this paper as follows:
+```
+April Robin Martinig, Spenser L. P. Burk, Szymon Marian Drobniak, Isabella Perry, Kyle Morrison, Megan Petersohn,
+  Patrice Pottier, Shinichi Nakagawa, Pietro Pollo, Lorenzo Ricolfi, Coralie Williams, Aimee Chhen, Ayumi Mizuno,
+  Jess Tam, Yefeng Yang, Julia de Jong, Alberto Ceccacci, Sandra Cuadros & Malgorzata Lagisz. (2025).
+  Dragon Kill Points: applying a transparent working template to relieve authorship stress. EcoEvoRxiv.
+  https://doi.org/10.32942/X2W05K
+```
