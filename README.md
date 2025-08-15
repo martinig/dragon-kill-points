@@ -1,11 +1,11 @@
 # 🐉 Dragon Kill Points: applying a transparent working template to relieve authorship stress
-_"To whom doth the honour of the Dragonslayer belongeth?"_
+
+_"Their red dragons bellowed with righteous anger, and the heavens erupted." - Orpheus, Prince of the Comet_
 
 This repository contains all the pre-made Dragon Kill Points [templates](https://github.com/martinig/dragon-kill-points/tree/54b801ccc4ca28d080cbc9f13e7f660b855998c7/downloadable%20templates).\
 We propose Dragon Kill Points, adapted from multiplayer gaming, which tracks individual contributions to projects throughout their lifecycle. 
 
 ## ⚔️ Method overview
-_"Their red dragons bellowed with righteous anger, and the heavens erupted." - Orpheus, Prince of the Comet_
 
 Dragon Kill Points is built around five key principles: granularity, responsibility, equity, autonomy, and transparency (**GREAT**). 
 1. **Granularity** ensures detailed documentation of tasks, preventing underrepresentation of individual contributions.
@@ -19,6 +19,8 @@ Through Dragon Kill Points, researchers can reduce conflicts, create more inclus
 **This system offers a flexible and scalable approach to managing authorship across various contexts, providing a solution to the complex challenges of collaboration.**
 
 ## 🧙 Example
+
+The table below is an example that was filled out during the development of this manuscript.
 
 Contributions are scored as 1 (yes) or 0 (no). Total counts are used when a non-binary system is not appropriate.
 
