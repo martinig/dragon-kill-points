@@ -5,7 +5,7 @@ This repository contains all the pre-made Dragon Kill Points templates.
 We propose Dragon Kill Points, adapted from multiplayer gaming, which tracks individual contributions to projects throughout their lifecycle. 
 
 ## ⚔️ Method overview
-_"Slayeth the Dragon we must!"_
+ _"Slayeth the Dragon we must!"_
 
 Dragon Kill Points is built around five key principles: granularity, responsibility, equity, autonomy, and transparency (**GREAT**). 
 1. **Granularity** ensures detailed documentation of tasks, preventing underrepresentation of individual contributions.
@@ -16,7 +16,7 @@ Dragon Kill Points is built around five key principles: granularity, responsibil
   
 Through Dragon Kill Points, researchers can reduce conflicts, create more inclusive authorship practices, and acknowledge the true value of middle authorship positions. 
 
-**This system offers a flexible, scalable approach to managing authorship across various contexts, providing a solution to the complex challenges of collaboration.**
+**This system offers a flexible and scalable approach to managing authorship across various contexts, providing a solution to the complex challenges of collaboration.**
 
 ## 🖋️ Citation
 Please cite this paper as follows:
