@@ -19,7 +19,7 @@ Through Dragon Kill Points, researchers can reduce conflicts, create more inclus
 **This system offers a flexible and scalable approach to managing authorship across various contexts, providing a solution to the complex challenges of collaboration.**
 
 ## 🖋️ Citation
-Please cite this paper as follows:
+Please cite this preprint as follows:
 ```
 April Robin Martinig, Spenser L. P. Burk, Szymon Marian Drobniak, Isabella Perry, Kyle Morrison, Megan Petersohn,
   Patrice Pottier, Shinichi Nakagawa, Pietro Pollo, Lorenzo Ricolfi, Coralie Williams, Aimee Chhen, Ayumi Mizuno,
