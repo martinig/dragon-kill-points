@@ -2,6 +2,8 @@
 
 _"Their red dragons bellowed with righteous anger, and the heavens erupted." - Orpheus, Prince of the Comet_
 
+![banner](assets/banner.png)
+
 This repository contains all the pre-made Dragon Kill Points [templates](https://github.com/martinig/dragon-kill-points/tree/54b801ccc4ca28d080cbc9f13e7f660b855998c7/downloadable%20templates).\
 We propose Dragon Kill Points, adapted from multiplayer gaming, which tracks individual contributions to projects throughout their lifecycle. 
 
