@@ -53,11 +53,8 @@ Contributions are scored as 1 (yes) or 0 (no). Total counts are used when a non-
 
 
 ## 🖋️ Citation
-Please cite this preprint as follows:
+Please cite this manuscript as follows:
 ```
-April Robin Martinig, Spenser L. P. Burk, Szymon Marian Drobniak, Isabella Perry, Kyle Morrison, Megan Petersohn,
-  Patrice Pottier, Shinichi Nakagawa, Pietro Pollo, Lorenzo Ricolfi, Coralie Williams, Aimee Chhen, Ayumi Mizuno,
-  Jess Tam, Yefeng Yang, Julia de Jong, Alberto Ceccacci, Sandra Cuadros & Malgorzata Lagisz. (2025).
-  Dragon Kill Points: applying a transparent working template to relieve authorship stress. EcoEvoRxiv.
-  https://doi.org/10.32942/X2W05K
+Martinig, A. R., S. L. P. Burk, S. M. Drobniak, I. Perry, K. Morrison, M. Petersohn, P. Pottier, S. Nakagawa, P. Pollo, L. Ricolfi, C. Williams, A. Mizuno, A. Chhen, J. Tam, Y. Yang, J. de Jong, A. Ceccacci, S. Cuadros, and M. Lagisz. 2026. Dragon Kill Points: applying a transparent working template to relieve authorship stress. BMC Biology 24:48. 10.1186/s12915-026-02521-x
+
 ```
